@@ -1,0 +1,56 @@
+.headerInput::placeholder {
+  color: white;
+}
+#outlined-basic {
+  background: none;
+  border: 1px solid white;
+  border-radius: 20px;
+  color: white;
+  width: 300px;
+  height: 30px;
+  padding-left: 10px;
+}
+
+#outlined-basic::placeholder {
+  color: rgba(255, 255, 255, 0.295);
+}
+.accountButton {
+  cursor: pointer;
+  width: 50px;
+  height: 37px;
+  border-radius: 50%;
+  margin-left: 40px;
+}
+
+.profile {
+  display: none;
+  color: white;
+}
+.menuItem {
+  color: white;
+  background: #fff;
+}
+.logMenu {
+  display: flex;
+  flex-direction: column;
+  margin-top: 160px;
+  margin-left: -70px;
+  background: rgb(112, 112, 112);
+  padding: 10px;
+  border-radius: 10px;
+}
+.logBtn:hover {
+  color: #fff;
+  background: #000;
+  border: 2px solid white;
+}
+#header {
+  width: 101.03%;
+  margin-left: -8px;
+  padding-bottom: 20px;
+  margin-top: -150px;
+  position: fixed;
+  z-index: 99;
+  background: #0000008f;
+  transition: 0.6s;
+}

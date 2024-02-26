@@ -1,0 +1,12 @@
+.myrents {
+  background: url("https://www.hdwallpapers.in/download/brabus_500_mercedes_benz_s_500_i_4matic_2021_4k_hd_cars-HD.jpg");
+  background-size: cover;
+  width: 1536px;
+  padding-top: 10px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}

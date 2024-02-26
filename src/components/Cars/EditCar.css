@@ -1,0 +1,12 @@
+.editPage {
+  background: url("https://wallpapers.com/images/hd/4k-mercedes-car-2018-0f2otaa9l0gn0xjr.jpg");
+  margin-left: -8px;
+  width: 1536px;
+  overflow: hidden;
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}

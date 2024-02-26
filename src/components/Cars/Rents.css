@@ -1,0 +1,14 @@
+#rents {
+  background: url("https://wallpapercosmos.com/w/full/5/6/8/1676864-3840x2160-desktop-4k-mercedes-benz-amg-gt-wallpaper.jpg");
+  background-size: cover;
+  width: 1536px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+#renlist{
+  display: flex;
+}
